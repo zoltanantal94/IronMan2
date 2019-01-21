@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iron Man</string>
+    <string name="please_rotate_the_screen">Kérlek forgasd el a képernyőt!</string>
+    <string name="password">jelszó</string>
+    <string name="unlock">Felold</string>
+    <string name="background">háttér</string>
+</resources>

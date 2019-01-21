@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Iron Man</string>
+    <string name="please_rotate_the_screen">Please rotate the screen!</string>
+    <string name="password">password</string>
+    <string name="unlock">Unlock</string>
+    <string name="background">background</string>
+    <string name="replay">replay</string>
+</resources>
